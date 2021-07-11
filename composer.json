@@ -1,0 +1,13 @@
+{
+    "name": "thernst/test",
+    "description": "Empty project with no dependency",
+    "type": "library",
+    "keywords": ["test", "empty", "null", "void"],
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "Th. Ernst"
+        }
+    ],
+    "require": {}
+}
